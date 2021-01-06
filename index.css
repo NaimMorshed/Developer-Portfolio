@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+}
+#menu-bar{
+    width: 100%;
+    height: 80px;
+    float: left;
+    box-sizing: border-box;
+    text-align: right;
+    padding: 11px 90px 0px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+#div-welcome{
+    width: 45%;
+    height: 550px;
+    float: left;
+    padding: 100px 150px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+#div-image-1{
+    width: 55%;
+    height: 550px;
+    float: left;
+    box-sizing: border-box;
+}
+#div-image-2{
+    width: 45%;
+    height: 550px;
+    float: left;
+}
+#div-about{
+    width: 55%;
+    height: 550px;
+    float: left;
+    padding: 150px;
+    box-sizing: border-box;
+}
+#section-4{
+    width: 100%;
+    height: 350px;
+    float: left;
+}
+#div-inquiry{
+    float: left;
+    width: 60%;
+    height: 200px;
+    background-color: black;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+
+
+li{
+    display: inline;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#menu-bar ul li a{
+    text-decoration: none;
+    color: rgb(22, 22, 22);
+}
+#intro-hello{
+    color: #363958;
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+}
+#intro-name{
+    color: #FF8367;
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    padding: 15px 40px;
+    border: 0px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, #F56160, #FC7762);
+    color: white;
+    font-weight: bold;
+}
+#text-about{
+    font-size: 35px;
+    color: #363958;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    text-align: justify;
+}
+#text-latest{
+    font-size: 30px;
+    color: #FF8367;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    text-align: justify;
+}
+#text-rest{
+    font-size: 30px;
+    color: #363958;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    text-align: justify;
+}
+#download-icon{
+    padding-right: 5px;
+}
+#section-3{
+    background-color: #e6e6e6;
+    width: 100%;
+    height: 650px;
+    float: left;
+}
+#sec-head{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card-padding{
+    padding-left: 110px;
+}
+#card{
+    width: 340px;
+    height: 350px;
+    background-color: white;
+    border-radius: 13px;
+    box-shadow: 1px 2px 4px black;
+    display: inline;
+    float: left;
+    margin: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    overflow: hidden;
+}
+h2{
+    color: #363958;
+    font-family: 'Open Sans', sans-serif;
+}
+#text-work-inquiry{
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    display: flex;
+    margin-top: 75px;
+    margin-left: 50px;
+}
+#lets-chat{
+    width: 200px;
+    height: 100px;
+    color: white;
+    background-color: orangered;
+}
